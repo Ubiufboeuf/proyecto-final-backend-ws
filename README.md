@@ -39,7 +39,8 @@ bun dev
 Repositorios:
 
 * [Frontend](https://github.com/Ubiufboeuf/proyecto-final-frontend)
-* [Backend](https://github.com/Ubiufboeuf/proyecto-final-backend)
+* [Servidor (http)](https://github.com/Ubiufboeuf/proyecto-final-backend)
+* [Servidor (ws)](https://github.com/Ubiufboeuf/proyecto-final-backend-ws)
 
 ---
 
