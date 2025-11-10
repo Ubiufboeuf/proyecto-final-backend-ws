@@ -2,7 +2,7 @@
 
 Servidor de la web para **Berrutti Turismo**, desarrollado como proyecto final de 3ºMA (IAE). Este servidor es específico para manejar peticiones Websocket, y es necesario para la funcionalidad de seguimiento de los ómnibus a tiempo real de la web.
 
-**Stack principal:** [Bun](https://bun.com/) + [Express](https://expressjs.com/)
+**Stack principal:** [Bun](https://bun.com/) + [Socket.IO](https://socket.io/)
 
 Usamos Bun en vez de Node.js para poder usar TypeScript sin tener que manejar tsc.
 
